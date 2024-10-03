@@ -1,3 +1,9 @@
+Celebrate the two-year anniversary of The Kickoff football podcast with this exclusive, limited-edition Farcaster Frame! This special frame not only showcases your support for the podcast but also allows you to mint a unique commemorative NFT that captures the essence of The Kickoff’s journey over the past two years.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
